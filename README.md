@@ -16,8 +16,8 @@
 <h1>For run this project </h1>
  <ol>
         <li>Clone this project in your Vs code</li>
-        <li>Then wite command in terminal : npm install -g vite</li>
-        <li>Then wite command in terminal : npm update vite</li>
-        <li>Then wite command in terminal : npm run dev</li>
+        <li>Then write command in terminal : npm install -g vite</li>
+        <li>Then write command in terminal : npm update vite</li>
+        <li>Then write command in terminal : npm run dev</li>
      
    </ol>
